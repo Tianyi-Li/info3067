@@ -1,7 +1,7 @@
 [{
 		"PRODUCTID": "X1CARBON",
 		"PRODUCTNAME": "X1CARBON",
-		"GRAPHICNAME": "X1CARBON",
+		"GRAPHICNAME": "thinkpadx1.jpg",
 		"COST": "1300",
 		"MSRP": "1500",
 		"QTYONHAND": "10",
@@ -12,7 +12,7 @@
 	{
 		"PRODUCTID": "X1EXTREME",
 		"PRODUCTNAME": "X1EXTREME",
-		"GRAPHICNAME": "X1EXTREME",
+		"GRAPHICNAME": "extreme.jpg",
 		"COST": "1500",
 		"MSRP": "1600",
 		"QTYONHAND": "15",
@@ -23,7 +23,7 @@
 	{
 		"PRODUCTID": "X1T460",
 		"PRODUCTNAME": "X1T460",
-		"GRAPHICNAME": "X1T460",
+		"GRAPHICNAME": "T460.jpg",
 		"COST": "1500",
 		"MSRP": "1600",
 		"QTYONHAND": "10",
@@ -34,7 +34,7 @@
 	{
 		"PRODUCTID": "X1T490",
 		"PRODUCTNAME": "X1T490",
-		"GRAPHICNAME": "X1T490",
+		"GRAPHICNAME": "T490.jpg",
 		"COST": "1500",
 		"MSRP": "1650",
 		"QTYONHAND": "10",
@@ -45,7 +45,7 @@
 	{
 		"PRODUCTID": "X1T570",
 		"PRODUCTNAME": "X1T570",
-		"GRAPHICNAME": "X1T570",
+		"GRAPHICNAME": "T570.jpg",
 		"COST": "1500",
 		"MSRP": "1700",
 		"QTYONHAND": "10",
@@ -67,7 +67,7 @@
 	{
 		"PRODUCTID": "XPS15",
 		"PRODUCTNAME": "XPS15",
-		"GRAPHICNAME": "XPS15 ",
+		"GRAPHICNAME": "dellxps13.jpg ",
 		"COST": "1700",
 		"MSRP": "1800",
 		"QTYONHAND": "15",
@@ -78,7 +78,7 @@
 	{
 		"PRODUCTID": "XPS17",
 		"PRODUCTNAME": "XPS17",
-		"GRAPHICNAME": "XPS17",
+		"GRAPHICNAME": "dellxps17.jpg",
 		"COST": "1700",
 		"MSRP": "1850",
 		"QTYONHAND": "15",
@@ -89,7 +89,7 @@
 	{
 		"PRODUCTID": "DELLG3",
 		"PRODUCTNAME": "DELLG3",
-		"GRAPHICNAME": "DELLG3",
+		"GRAPHICNAME": "dellg3.jpg",
 		"COST": "1700",
 		"MSRP": "1880",
 		"QTYONHAND": "15",
@@ -100,7 +100,7 @@
 	{
 		"PRODUCTID": "DELLG7",
 		"PRODUCTNAME": "DELLG7",
-		"GRAPHICNAME": "DELLG7",
+		"GRAPHICNAME": "dellg7.jpg",
 		"COST": "1700",
 		"MSRP": "1900",
 		"QTYONHAND": "15",
@@ -111,7 +111,7 @@
 	{
 		"PRODUCTID": "MACBOOKPRO13",
 		"PRODUCTNAME": "MACBOOKPRO13",
-		"GRAPHICNAME": "MACBOOKPRO13",
+		"GRAPHICNAME": "macbookpro13.jpg",
 		"COST": "2700",
 		"MSRP": "2900",
 		"QTYONHAND": "20",
@@ -122,7 +122,7 @@
 	{
 		"PRODUCTID": "MACBOOKPRO15",
 		"PRODUCTNAME": "MACBOOKPRO15",
-		"GRAPHICNAME": "MACBOOKPRO15 ",
+		"GRAPHICNAME": "macbookpro15.jpg",
 		"COST": "2700",
 		"MSRP": "3000",
 		"QTYONHAND": "20",
@@ -133,7 +133,7 @@
 	{
 		"PRODUCTID": "MACBOOKAIR13",
 		"PRODUCTNAME": "MACBOOKAIR13",
-		"GRAPHICNAME": "MACBOOKAIR13",
+		"GRAPHICNAME": "macbookair13.jpg",
 		"COST": "2700",
 		"MSRP": "3200",
 		"QTYONHAND": "20",
@@ -144,7 +144,7 @@
 	{
 		"PRODUCTID": "MACBOOKAIR15",
 		"PRODUCTNAME": "MACBOOKAIR15",
-		"GRAPHICNAME": "MACBOOKAIR15 ",
+		"GRAPHICNAME": "macbookair15.jpg ",
 		"COST": "2700",
 		"MSRP": "3300",
 		"QTYONHAND": "20",
@@ -155,7 +155,7 @@
 	{
 		"PRODUCTID": "MACBOOK13",
 		"PRODUCTNAME": "MACBOOK13",
-		"GRAPHICNAME": "MACBOOK13",
+		"GRAPHICNAME": "macbook.jpg",
 		"COST": "2700",
 		"MSRP": "3500",
 		"QTYONHAND": "20",
