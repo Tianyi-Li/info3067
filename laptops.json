@@ -56,7 +56,7 @@
 	{
 		"PRODUCTID": "XPS13",
 		"PRODUCTNAME": "XPS13",
-		"GRAPHICNAME": "XPS13",
+		"GRAPHICNAME": "dellxps13.jpg",
 		"COST": "1700",
 		"MSRP": "1800",
 		"QTYONHAND": "15",
@@ -67,7 +67,7 @@
 	{
 		"PRODUCTID": "XPS15",
 		"PRODUCTNAME": "XPS15",
-		"GRAPHICNAME": "dellxps13.jpg ",
+		"GRAPHICNAME": "dellxps15.jpg",
 		"COST": "1700",
 		"MSRP": "1800",
 		"QTYONHAND": "15",
