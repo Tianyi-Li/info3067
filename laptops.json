@@ -4,7 +4,7 @@
 		"GRAPHICNAME": "thinkpadx1.jpg",
 		"COST": "1300",
 		"MSRP": "1500",
-		"QTYONHAND": "5",
+		"QTYONHAND": "0",
 		"QTYONBACKORDER": "0",
 		"DESCRIPTION": "The new redesigned, sleek and slim, T series 14 business laptop is lightweight, provides up to 20 hrs of battery life and enchanced security features for optimimal performance.",
 		"BRAND": "THINKPAD"
@@ -59,7 +59,7 @@
 		"GRAPHICNAME": "dellxps13.jpg",
 		"COST": "1700",
 		"MSRP": "1800",
-		"QTYONHAND": "3",
+		"QTYONHAND": "0",
 		"QTYONBACKORDER": "0",
 		"DESCRIPTION": "Artfully designed and fully loaded for enhanced performance, this Dell XPS laptop boasting a 13 Full HD InfinityEdge display, Intel Core i7 processor with 8GB of RAM, and Windows 10 Home pre-installed. Its sleek chassis is cut with precision from a single block of aluminum, and comes with a carbon fibre palm rest.Discover the ultimate, most compact 13 performance laptop on the planet with optional touch screen.",
 		"BRAND": "DELL"
@@ -114,7 +114,7 @@
 		"GRAPHICNAME": "macbookpro13.jpg",
 		"COST": "2700",
 		"MSRP": "2900",
-		"QTYONHAND": "4",
+		"QTYONHAND": "0",
 		"QTYONBACKORDER": "0",
 		"DESCRIPTION": "2.4GHz quad-core 8th-generation Intel Core i5 processor Turbo Boost up to 4.1GHz Intel Iris Plus Graphics 655 8GB 2133MHz LPDDR3 memory",
 		"BRAND": "APPLE"
